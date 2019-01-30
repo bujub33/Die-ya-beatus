@@ -1,3 +1,3 @@
 # Die-ya-beatus
 Candy Death Battle Game
-A game where pieces of candy fight to the death. (Under Construction)
+A game where pieces of candy fight to the death. (Prototype)
